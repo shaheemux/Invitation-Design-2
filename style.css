@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+  }
+  
+  button{
+    border-radius: 65px;
+    position: absolute;
+    left: 540px;
+    top: 2050px;
+    font-size: 50px;
+    background-color: #92b8c0;
+    padding: 2rem;
+    width: 520px;
+    transition: 0.5s ease-in-out;
+    font-weight: 600;
+    border: solid #92b8c0;
+  }
+  
+  
+  button:hover{
+    transition: 0.5s;
+    transform: scale(1.05);
+    box-shadow: 1px 2px 12px black;
+  }
+  
+  a{
+      color: #1e2925;
+      text-decoration: none; 
+  }
